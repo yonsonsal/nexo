@@ -1,0 +1,541 @@
+[
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Centro Oftalmológico Meerhoff",
+    "Tipo":"Clínica",
+    "Barrio":"BARRIO SUR",
+    "Dirección":"Avda. Luis A. de Herrera 2044",
+    "Telefono":"2481 1200",
+    "Sitio web":"http://www.clinicameerhoff.com.uy/",
+    "Mail":"wmeerhoff@netgate.com.uy"
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Circulo Laser",
+    "Tipo":"Clínica",
+    "Barrio":"CENTRO",
+    "Dirección":"Minas 1260",
+    "Telefono":"(2) 4112000",
+    "Sitio web":"http://www.circulolaser.com.uy/",
+    "Mail":"circulolaser@circulolaser.com.uy"
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Cotinux Sa",
+    "Tipo":"Clínica",
+    "Barrio":"CENTRO",
+    "Dirección":"Av 18 De Julio 1596",
+    "Telefono":"(2) 4034254",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Visión Echagüe",
+    "Tipo":"Clínica",
+    "Barrio":"CORDON",
+    "Dirección":"BV GRAL ARTIGAS 1171",
+    "Telefono":"2403 6567",
+    "Sitio web":"",
+    "Mail":"juan.echague@visionechague.com.uy\nagustin.echague@visionechague.com.uy"
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Clinica De Oftalmologia Dr Harrison Cossio",
+    "Tipo":"Clínica",
+    "Barrio":"La Blanqueada",
+    "Dirección":"Av 8 De Octubre 3015",
+    "Telefono":"(2) 4873749",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Clinica De Ojos Montevideo",
+    "Tipo":"Clínica",
+    "Barrio":"Parque Rodó",
+    "Dirección":"Bulevar Artigas 1555",
+    "Telefono":"2408 62 62",
+    "Sitio web":"http://www.clinicadeojosmontevideo.com.uy/",
+    "Mail":"consultas@clinicadeojosmontevideo.com.uy \nreservas@clinicadeojosmontevideo.com.uy \nadministracion@clinicadeojosmontevideo.com.uy"
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Centro Oftalmológico Visión 1 Dra. Rosa",
+    "Tipo":"Clínica",
+    "Barrio":"Parque Rodó",
+    "Dirección":"AV GONZALO RAMIREZ 1954",
+    "Telefono":"2410 8102",
+    "Sitio web":"http://www.visionuno.com.uy",
+    "Mail":"visionuno@netgate.com.uy"
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Cetao",
+    "Tipo":"Clínica",
+    "Barrio":"PQUE BATLLE VILLA DOLORES",
+    "Dirección":"PEDRO CAMPBELL 1546",
+    "Telefono":"2708 0500",
+    "Sitio web":"http://www.cetao.com.uy",
+    "Mail":"consultoriooft@cetao.com.uy"
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Centro Clínico Visual",
+    "Tipo":"Clínica",
+    "Barrio":"PUNTA CARRETAS",
+    "Dirección":"LUIS FRANZINI 841,",
+    "Telefono":"2712 4190",
+    "Sitio web":"",
+    "Mail":"centroclinicovisual@adinet.com.uy"
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Consultorio Oftalmologico Punto Vision",
+    "Tipo":"Clínica",
+    "Barrio":"UNION",
+    "Dirección":"Av 8 De Octubre 4007",
+    "Telefono":"(2) 5083093",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Mermelstein Nicolas",
+    "Tipo":"Particular",
+    "Barrio":"BUCEO",
+    "Dirección":"M Gonzales 1199",
+    "Telefono":"(2) 6220097",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Servetti Funes Juan Antonio",
+    "Tipo":"Particular",
+    "Barrio":"CARRASCO",
+    "Dirección":"Mones Roses 6408",
+    "Telefono":"2600 8805",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Iribarne Forteza Sylvia",
+    "Tipo":"Particular",
+    "Barrio":"CENTRO",
+    "Dirección":"Mercedes 1472",
+    "Telefono":"(2) 4007506",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Perdomo Bica Rodolfo",
+    "Tipo":"Particular",
+    "Barrio":"CENTRO",
+    "Dirección":"Av 18 De Julio 2030",
+    "Telefono":"(2) 4082496",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Colenski Levi Lazaro",
+    "Tipo":"Particular",
+    "Barrio":"CENTRO",
+    "Dirección":"Andes 1358",
+    "Telefono":"(2) 9001054",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Besio Alberti Raul Mario",
+    "Tipo":"Particular",
+    "Barrio":"CORDON",
+    "Dirección":"Eduardo Acevedo 1382",
+    "Telefono":"2401 3246",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"De Mattos Enrique",
+    "Tipo":"Particular",
+    "Barrio":"CORDON",
+    "Dirección":"F J Muñoz 330",
+    "Telefono":"(2) 6222556",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Solis Carlos",
+    "Tipo":"Particular",
+    "Barrio":"PALERMO",
+    "Dirección":"Salto 912",
+    "Telefono":"2419 6338",
+    "Sitio web":"",
+    "Mail":"drsolis@adinet.com.uy"
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Venturino Dupin Veronica",
+    "Tipo":"Particular",
+    "Barrio":"PALERMO",
+    "Dirección":"Ing Carlos María Morales 912",
+    "Telefono":"2413 4047",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Echague Juan Antonio",
+    "Tipo":"Particular",
+    "Barrio":"Parque Rodó",
+    "Dirección":"Blvr Gral Artigas 1125",
+    "Telefono":"(2) 4036567",
+    "Sitio web":"",
+    "Mail":"juan.echague@visionechague.com.uy\nagustin.echague@visionechague.com.uy"
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Dartayete Martinez Juan Enrique",
+    "Tipo":"Particular",
+    "Barrio":"Perez Castellanos",
+    "Dirección":"Av L A De Herrera 1248",
+    "Telefono":"(2) 6227360",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Gallarreta Marcelo",
+    "Tipo":"Particular",
+    "Barrio":"POCITOS",
+    "Dirección":"Av Sarmiento 2559",
+    "Telefono":"",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"PERSITZ Felicia",
+    "Tipo":"Particular",
+    "Barrio":"POCITOS",
+    "Dirección":"Cristóbal Echevarriarza 3310",
+    "Telefono":"2709 7920",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"De Santiago Solis Fernando",
+    "Tipo":"Particular",
+    "Barrio":"POCITOS",
+    "Dirección":"J Ellauri 690",
+    "Telefono":"(2) 7110067",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Ugartemendia De Schimchak Estrellita",
+    "Tipo":"Particular",
+    "Barrio":"POCITOS",
+    "Dirección":"Av Dr F Soca 1516",
+    "Telefono":"(2) 7093403",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Mester Nudelman Ricardo",
+    "Tipo":"Particular",
+    "Barrio":"POCITOS",
+    "Dirección":"Fanzini 841",
+    "Telefono":"27124190",
+    "Sitio web":"Centro Clinico visual",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"HARISPE Costas Alicia Elena",
+    "Tipo":"Particular",
+    "Barrio":"PQUE BATLLE VILLA DOLORES",
+    "Dirección":"GralJEBritoDelP 1483",
+    "Telefono":"27079134",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"UGARTEMENDIA De Schimchak Estrellita",
+    "Tipo":"Particular",
+    "Barrio":"PQUE BATLLE VILLA DOLORES",
+    "Dirección":"Av Dr Francisco Soca 1516",
+    "Telefono":"27093403",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Vaczy Rígoli Ricardo",
+    "Tipo":"Particular",
+    "Barrio":"PQUE BATLLE VILLA DOLORES",
+    "Dirección":"Luis A de Herrera 2044",
+    "Telefono":"24811200",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Musso Esmeralda",
+    "Tipo":"Particular",
+    "Barrio":"PQUE BATLLE VILLA DOLORES",
+    "Dirección":"Dr P De Pena 2520",
+    "Telefono":"(2) 7089825",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Berruti Alvaro M.J. Gabriel y Alicia Harispe",
+    "Tipo":"Particular",
+    "Barrio":"PUNTA CARRETAS",
+    "Dirección":"Av. Sarmiento 2396",
+    "Telefono":"2712 0513",
+    "Sitio web":"",
+    "Mail":"consultoriosarmiento@hotmail.com"
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Isola Montaldo Mabel",
+    "Tipo":"Particular",
+    "Barrio":"PUNTA CARRETAS",
+    "Dirección":"J Nuñez 2767",
+    "Telefono":"(2) 7110560",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Sabbella Amendola Angel Claudio",
+    "Tipo":"Particular",
+    "Barrio":"REDUCTO",
+    "Dirección":"Dr E Ciganda 1341",
+    "Telefono":"(2) 2099019",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Oftalmologia",
+    "Nombre":"Dauria Delia Rodriguez De",
+    "Tipo":"Particular",
+    "Barrio":"TRES CRUCES",
+    "Dirección":"Av Italia 2565",
+    "Telefono":"(2) 4802691",
+    "Sitio web":"",
+    "Mail":""
+  }, {
+    "Especialidad":"Dermatología",
+    "Nombre":"Dra Liliana Calandría",
+    "Tipo":"Particular",
+    "Barrio":"Pocitos",
+    "Dirección":"Benito Lamas 2932",
+    "Telefono":"2707 8453",
+    "Sitio web":"http://dracalandria.com/",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Dermatología",
+    "Nombre":"Dr. Alberto García Villanueva",
+    "Tipo":"Particular",
+    "Barrio":"Tres Cruces",
+    "Dirección":"ACEVEDO DIAZ 1660",
+    "Telefono":"4532 4630",
+    "Sitio web":"",
+    "Mail":"dralbertogarciavillanueva@gmail.com"
+  },
+  {
+    "Especialidad":"Dermatología",
+    "Nombre":"Souza Olivera Iliana Ruth",
+    "Tipo":"Particular",
+    "Barrio":"Buceo",
+    "Dirección":"AV MCAL FRANCISCO SOLANO LOPEZ 1772",
+    "Telefono":"099 155 107",
+    "Sitio web":"",
+    "Mail":"ilrusouza@montevideo.com.uy"
+  },
+  {
+    "Especialidad":"Dermatología",
+    "Nombre":"De Boni Crotti Daniela",
+    "Tipo":"Particular",
+    "Barrio":"Pocitos",
+    "Dirección":"EL VIEJO PANCHO 2586",
+    "Telefono":"2707 1513",
+    "Sitio web":"http://www.consultorioclinicolibertad.com.uy/contacto/",
+    "Mail":"consultorioclinicolibertad@gmail.com"
+  },
+  {
+    "Especialidad":"Dermatología",
+    "Nombre":"Terzano Ismael",
+    "Tipo":"Particular",
+    "Barrio":"Centro",
+    "Dirección":"AGRM GERMAN BARBATO 1363",
+    "Telefono":"2902 7272",
+    "Sitio web":"",
+    "Mail":"estetica.uruguay@hotmail.com"
+  },
+  {
+    "Especialidad":"",
+    "Nombre":"ROVIRA Sheila",
+    "Tipo":"Particular",
+    "Barrio":"Centro",
+    "Dirección":"AGRM GERMAN BARBATO 1363,",
+    "Telefono":"2902 7272",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Dermatología",
+    "Nombre":"Da Costa Porto Laura Dra.",
+    "Tipo":"Particular",
+    "Barrio":"Pocitos",
+    "Dirección":"BV JUAN BENITO BLANCO 1255",
+    "Telefono":"2706 8884",
+    "Sitio web":"",
+    "Mail":"essence@dradacostaporto.com.uy"
+  },
+  {
+    "Especialidad":"Dermatología",
+    "Nombre":"Dr. Vainsencher David",
+    "Tipo":"Particular",
+    "Barrio":"Cordon",
+    "Dirección":"Dr. Tristan Narvaja 1513",
+    "Telefono":"2408 5422",
+    "Sitio web":"",
+    "Mail":"vainsen@hotmail.com"
+  },
+  {
+    "Especialidad":"Dermatología",
+    "Nombre":"Rivero Vidovich Maria Virginia",
+    "Tipo":"Particular",
+    "Barrio":"El Pinar",
+    "Dirección":"Av Gral J.A. Lavalleja c/Precursores",
+    "Telefono":"2698 9077",
+    "Sitio web":"",
+    "Mail":"vriverov@adinet.com.uy"
+  },
+  {
+    "Especialidad":"Dermatología",
+    "Nombre":"Centro Dermatologico",
+    "Tipo":"Clinica",
+    "Barrio":"Pocitos",
+    "Dirección":"Ellauri 357 Apto.803",
+    "Telefono":"099 683072",
+    "Sitio web":"",
+    "Mail":"info@centro-dermatologico.com.uy"
+  },
+  {
+    "Especialidad":"Dermatología",
+    "Nombre":"Clinica Avril",
+    "Tipo":"Clinica",
+    "Barrio":"Pocitos",
+    "Dirección":"BVAR. ARTIGAS 1247, ESQ.CHARRÚA",
+    "Telefono":"24007761",
+    "Sitio web":"http://www.avril.com.uy/",
+    "Mail":"CONSULTAS@AVRIL.COM.UY\ninfo@avril.com.uy"
+  },
+  {
+    "Especialidad":"Dermatología",
+    "Nombre":"Centro Laser Dermatologico",
+    "Tipo":"Clinica",
+    "Barrio":"Pocitos",
+    "Dirección":"FRANCISCO JOAQUIN MUÑOZ 2957",
+    "Telefono":"2709 9577",
+    "Sitio web":"",
+    "Mail":"cdlaser@adinet.com.uy"
+  },
+  {
+    "Especialidad":"Dermatología",
+    "Nombre":"Centro Clinico De Piel",
+    "Tipo":"Clinica",
+    "Barrio":"Pocitos",
+    "Dirección":"Av Dr Francisco Soca 1317",
+    "Telefono":"2707 8357",
+    "Sitio web":"http://amerpages.com/spa/uruguay/items/view/7435/centro-clinico-de-piel",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Dermatología",
+    "Nombre":"Centro Médico Dra. Gladys Calabrese",
+    "Tipo":"Clinica",
+    "Barrio":"Cordon",
+    "Dirección":"BV GRAL ARTIGAS 1443",
+    "Telefono":"2400 5737",
+    "Sitio web":"",
+    "Mail":"c.m.calabrese@adinet.com.uy"
+  },
+  {
+    "Especialidad":"Dermatología",
+    "Nombre":"Clínica López Garbarino",
+    "Tipo":"Clinica",
+    "Barrio":"Pocitos",
+    "Dirección":"Av. Brasil 2856",
+    "Telefono":"2709 3787",
+    "Sitio web":"http://www.clinicalopezgarbarino.com/",
+    "Mail":"info@clinicalopezgarbarino.com\nconsulta@clinicalopezgarbarino.com"
+  },
+  {
+    "Especialidad":"Dermatología",
+    "Nombre":"LABAT Adriana",
+    "Tipo":"Particular",
+    "Barrio":"Tres Cruces",
+    "Dirección":"Br Gral Artigas 1631",
+    "Telefono":"24023050",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Dermatología",
+    "Nombre":"Cateura Maria Elizabeth",
+    "Tipo":"Particular",
+    "Barrio":"Pocitos",
+    "Dirección":"Av Brasil 2686",
+    "Telefono":"2707 2538",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Dermatología",
+    "Nombre":"Sanguinetti Jorge Manuel",
+    "Tipo":"Particular",
+    "Barrio":"Parque Batlle",
+    "Dirección":"Br Artigas 1632",
+    "Telefono":"24877761",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Dermatología",
+    "Nombre":"Tellez Vogliolo Daniel",
+    "Tipo":"Particular",
+    "Barrio":"Parque Batlle",
+    "Dirección":"Cap Videla 2893",
+    "Telefono":"2708 5201",
+    "Sitio web":"",
+    "Mail":""
+  },
+  {
+    "Especialidad":"Dermatología",
+    "Nombre":"LOPEZ Celis Maria Elena",
+    "Tipo":"Particular",
+    "Barrio":"Prado",
+    "Dirección":"Av Joaquín Suárez 3292",
+    "Telefono":"22043369",
+    "Sitio web":"",
+    "Mail":""
+  }
+]

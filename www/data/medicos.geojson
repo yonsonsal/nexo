@@ -1,0 +1,973 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.19806, -34.90607]
+    },
+    "properties": {
+      "cartodb_id": 18,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "(2) 9001054",
+      "direccion": "Andes 1358",
+      "barrio": "CENTRO",
+      "tipo": "Particular",
+      "nombre": "Colenski Levi Lazaro",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.18169, -34.90422]
+    },
+    "properties": {
+      "cartodb_id": 3,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "(2) 4034254",
+      "direccion": "Av 18 De Julio 1596",
+      "barrio": "CENTRO",
+      "tipo": "Clínica",
+      "nombre": "Cotinux Sa",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.16705, -34.89685]
+    },
+    "properties": {
+      "cartodb_id": 40,
+      "mail": "dralbertogarciavillanueva@gmail.com",
+      "sitio_web": "",
+      "telefono": "4532 4630",
+      "direccion": "ACEVEDO DIAZ 1660",
+      "barrio": "Tres Cruces",
+      "tipo": "Particular",
+      "nombre": "Dr. Alberto García Villanueva",
+      "especialidad": "Dermatología",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.18609, -34.90526]
+    },
+    "properties": {
+      "cartodb_id": 44,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "2902 7272",
+      "direccion": "AGRM GERMAN BARBATO 1363",
+      "barrio": "Centro",
+      "tipo": "Particular",
+      "nombre": "ROVIRA Sheila",
+      "especialidad": "",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.18609, -34.90526]
+    },
+    "properties": {
+      "cartodb_id": 43,
+      "mail": "estetica.uruguay@hotmail.com",
+      "sitio_web": "",
+      "telefono": "2902 7272",
+      "direccion": "AGRM GERMAN BARBATO 1363",
+      "barrio": "Centro",
+      "tipo": "Particular",
+      "nombre": "Terzano Ismael",
+      "especialidad": "Dermatología",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.15545, -34.88361]
+    },
+    "properties": {
+      "cartodb_id": 6,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "(2) 4873749",
+      "direccion": "Av 8 De Octubre 3015",
+      "barrio": "La Blanqueada",
+      "tipo": "Clínica",
+      "nombre": "Clinica De Oftalmologia Dr Harrison Cossio",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.15283, -34.91012]
+    },
+    "properties": {
+      "cartodb_id": 54,
+      "mail": "info@clinicalopezgarbarino.com",
+      "sitio_web": "http://www.clinicalopezgarbarino.com/",
+      "telefono": "2709 3787",
+      "direccion": "Av. Brasil 2856",
+      "barrio": "Pocitos",
+      "tipo": "Clinica",
+      "nombre": "Clínica López Garbarino",
+      "especialidad": "Dermatología",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.15509, -34.90573]
+    },
+    "properties": {
+      "cartodb_id": 52,
+      "mail": "",
+      "sitio_web": "http://amerpages.com/spa/uruguay/items/view/7435/centro-clinico-de-piel",
+      "telefono": "2707 8357",
+      "direccion": "Av Dr Francisco Soca 1317",
+      "barrio": "Pocitos",
+      "tipo": "Clinica",
+      "nombre": "Centro Clinico De Piel",
+      "especialidad": "Dermatología",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-54.77329, -34.03884]
+    },
+    "properties": {
+      "cartodb_id": 47,
+      "mail": "vriverov@adinet.com.uy",
+      "sitio_web": "",
+      "telefono": "2698 9077",
+      "direccion": "Av Gral J.A. Lavalleja c/Precursores",
+      "barrio": "El Pinar",
+      "tipo": "Particular",
+      "nombre": "Rivero Vidovich Maria Virginia",
+      "especialidad": "Dermatología",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.12713, -34.88954]
+    },
+    "properties": {
+      "cartodb_id": 41,
+      "mail": "ilrusouza@montevideo.com.uy",
+      "sitio_web": "",
+      "telefono": "099 155 107",
+      "direccion": "AV MCAL FRANCISCO SOLANO LOPEZ 1772",
+      "barrio": "Buceo",
+      "tipo": "Particular",
+      "nombre": "Souza Olivera Iliana Ruth",
+      "especialidad": "Dermatología",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.15286, -34.91349]
+    },
+    "properties": {
+      "cartodb_id": 39,
+      "mail": "",
+      "sitio_web": "http://dracalandria.com/",
+      "telefono": "2707 8453",
+      "direccion": "Benito Lamas 2932",
+      "barrio": "Pocitos",
+      "tipo": "Particular",
+      "nombre": "Dra Liliana Calandría",
+      "especialidad": "Dermatología",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.16387, -34.9056]
+    },
+    "properties": {
+      "cartodb_id": 49,
+      "mail": "CONSULTAS@AVRIL.COM.UY",
+      "sitio_web": "http://www.avril.com.uy/",
+      "telefono": "24007761",
+      "direccion": "BVAR. ARTIGAS 1247 ESQ.CHARRÚA",
+      "barrio": "Pocitos",
+      "tipo": "Clinica",
+      "nombre": "Clinica Avril",
+      "especialidad": "Dermatología",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.16382, -34.90733]
+    },
+    "properties": {
+      "cartodb_id": 4,
+      "mail": "juan.echague@visionechague.com.uy",
+      "sitio_web": "",
+      "telefono": "2403 6567",
+      "direccion": "BV GRAL ARTIGAS 1171",
+      "barrio": "CORDON",
+      "tipo": "Clínica",
+      "nombre": "Visión Echagüe",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.16435, -34.9025]
+    },
+    "properties": {
+      "cartodb_id": 53,
+      "mail": "c.m.calabrese@adinet.com.uy",
+      "sitio_web": "",
+      "telefono": "2400 5737",
+      "direccion": "BV GRAL ARTIGAS 1443",
+      "barrio": "Cordon",
+      "tipo": "Clinica",
+      "nombre": "Centro Médico Dra. Gladys Calabrese",
+      "especialidad": "Dermatología",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.14417, -34.9099]
+    },
+    "properties": {
+      "cartodb_id": 45,
+      "mail": "essence@dradacostaporto.com.uy",
+      "sitio_web": "",
+      "telefono": "2706 8884",
+      "direccion": "BV JUAN BENITO BLANCO 1255",
+      "barrio": "Pocitos",
+      "tipo": "Particular",
+      "nombre": "Da Costa Porto Laura Dra.",
+      "especialidad": "Dermatología",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.1776542739, -34.9019526497]
+    },
+    "properties": {
+      "cartodb_id": 46,
+      "mail": "vainsen@hotmail.com",
+      "sitio_web": "",
+      "telefono": "2408 5422",
+      "direccion": "Dr. Tristan Narvaja 1513",
+      "barrio": "Cordon",
+      "tipo": "Particular",
+      "nombre": "Dr. Vainsencher David",
+      "especialidad": "Dermatología",
+      "cartodb_georef_status": false
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.1597977361,-34.9233110049]
+    },
+    "properties": {
+      "cartodb_id": 48,
+      "mail": "info@centro-dermatologico.com.uy",
+      "sitio_web": "",
+      "telefono": "099 683072",
+      "direccion": "Ellauri 357 Apto.803",
+      "barrio": "Pocitos",
+      "tipo": "Clinica",
+      "nombre": "Centro Dermatologico",
+      "especialidad": "Dermatología",
+      "cartodb_georef_status": false
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.1499685919,-34.9068309063]
+    },
+    "properties": {
+      "cartodb_id": 51,
+      "mail": "cdlaser@adinet.com.uy",
+      "sitio_web": "",
+      "telefono": "2709 9577",
+      "direccion": "FRANCISCO JOAQUIN MUÑOZ 2957",
+      "barrio": "Pocitos",
+      "tipo": "Clinica",
+      "nombre": "Centro Laser Dermatologico",
+      "especialidad": "Dermatología",
+      "cartodb_georef_status": false
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.158773, -34.915638]
+    },
+    "properties": {
+      "cartodb_id": 12,
+      "mail": "centroclinicovisual@adinet.com.uy",
+      "sitio_web": "",
+      "telefono": "2712 4190",
+      "direccion": "LUIS FRANZINI 841",
+      "barrio": "PUNTA CARRETAS",
+      "tipo": "Clínica",
+      "nombre": "Centro Clínico Visual",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": false
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.181404, -34.913136]
+    },
+    "properties": {
+      "cartodb_id": 21,
+      "mail": "drsolis@adinet.com.uy",
+      "sitio_web": "",
+      "telefono": "2419 6338",
+      "direccion": "Salto 912",
+      "barrio": "PALERMO",
+      "tipo": "Particular",
+      "nombre": "Solis Carlos",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": false
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.15764, -34.910155]
+    },
+    "properties": {
+      "cartodb_id": 42,
+      "mail": "consultorioclinicolibertad@gmail.com",
+      "sitio_web": "http://www.consultorioclinicolibertad.com.uy/contacto/",
+      "telefono": "2707 1513",
+      "direccion": "EL VIEJO PANCHO 2586",
+      "barrio": "Pocitos",
+      "tipo": "Particular",
+      "nombre": "De Boni Crotti Daniela",
+      "especialidad": "Dermatología",
+      "cartodb_georef_status": false
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.17186, -34.90044]
+    },
+    "properties": {
+      "cartodb_id": 17,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "(2) 4082496",
+      "direccion": "Av 18 De Julio 2030",
+      "barrio": "CENTRO",
+      "tipo": "Particular",
+      "nombre": "Perdomo Bica Rodolfo",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.13568, -34.87174]
+    },
+    "properties": {
+      "cartodb_id": 13,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "(2) 5083093",
+      "direccion": "Av 8 De Octubre 4007",
+      "barrio": "UNION",
+      "tipo": "Clínica",
+      "nombre": "Consultorio Oftalmologico Punto Vision",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.14682, -34.88996]
+    },
+    "properties": {
+      "cartodb_id": 1,
+      "mail": "wmeerhoff@netgate.com.uy",
+      "sitio_web": "http://www.clinicameerhoff.com.uy/",
+      "telefono": "2481 1200",
+      "direccion": "Avda. Luis A. de Herrera 2044",
+      "barrio": "BARRIO SUR",
+      "tipo": "Clínica",
+      "nombre": "Centro Oftalmológico Meerhoff",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.15682, -34.90085]
+    },
+    "properties": {
+      "cartodb_id": 32,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "27093403",
+      "direccion": "Av Dr Francisco Soca 1516",
+      "barrio": "PQUE BATLLE VILLA DOLORES",
+      "tipo": "Particular",
+      "nombre": "UGARTEMENDIA De Schimchak Estrellita",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.16293, -34.87417]
+    },
+    "properties": {
+      "cartodb_id": 29,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "(2) 7093403",
+      "direccion": "Av Dr F Soca 1516",
+      "barrio": "POCITOS",
+      "tipo": "Particular",
+      "nombre": "Ugartemendia De Schimchak Estrellita",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.17254, -34.9119]
+    },
+    "properties": {
+      "cartodb_id": 10,
+      "mail": "visionuno@netgate.com.uy",
+      "sitio_web": "http://www.visionuno.com.uy",
+      "telefono": "2410 8102",
+      "direccion": "AV GONZALO RAMIREZ 1954",
+      "barrio": "Parque Rodó",
+      "tipo": "Clínica",
+      "nombre": "Centro Oftalmológico Visión 1 Dra. Rosa",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.1603, -34.89257]
+    },
+    "properties": {
+      "cartodb_id": 38,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "(2) 4802691",
+      "direccion": "Av Italia 2565",
+      "barrio": "TRES CRUCES",
+      "tipo": "Particular",
+      "nombre": "Dauria Delia Rodriguez De",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.2767, -34.85127]
+    },
+    "properties": {
+      "cartodb_id": 25,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "(2) 6227360",
+      "direccion": "Av L A De Herrera 1248",
+      "barrio": "Perez Castellanos",
+      "tipo": "Particular",
+      "nombre": "Dartayete Martinez Juan Enrique",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.1616, -34.91482]
+    },
+    "properties": {
+      "cartodb_id": 35,
+      "mail": "consultoriosarmiento@hotmail.com",
+      "sitio_web": "",
+      "telefono": "2712 0513",
+      "direccion": "Av. Sarmiento 2396",
+      "barrio": "PUNTA CARRETAS",
+      "tipo": "Particular",
+      "nombre": "Berruti Alvaro M.J. Gabriel y Alicia Harispe",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.15729, -34.91423]
+    },
+    "properties": {
+      "cartodb_id": 26,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "",
+      "direccion": "Av Sarmiento 2559",
+      "barrio": "POCITOS",
+      "tipo": "Particular",
+      "nombre": "Gallarreta Marcelo",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.1637, -34.90838]
+    },
+    "properties": {
+      "cartodb_id": 23,
+      "mail": "juan.echague@visionechague.com.uy",
+      "sitio_web": "",
+      "telefono": "(2) 4036567",
+      "direccion": "Blvr Gral Artigas 1125",
+      "barrio": "Parque Rodó",
+      "tipo": "Particular",
+      "nombre": "Echague Juan Antonio",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.16463, -34.89933]
+    },
+    "properties": {
+      "cartodb_id": 7,
+      "mail": "consultas@clinicadeojosmontevideo.com.uy ",
+      "sitio_web": "http://www.clinicadeojosmontevideo.com.uy/",
+      "telefono": "2408 62 62",
+      "direccion": "Bulevar Artigas 1555",
+      "barrio": "Parque Rodó",
+      "tipo": "Clínica",
+      "nombre": "Clinica De Ojos Montevideo",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.14172, -34.90863]
+    },
+    "properties": {
+      "cartodb_id": 27,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "2709 7920",
+      "direccion": "Cristóbal Echevarriarza 3310",
+      "barrio": "POCITOS",
+      "tipo": "Particular",
+      "nombre": "PERSITZ Felicia",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.19001, -34.87597]
+    },
+    "properties": {
+      "cartodb_id": 37,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "(2) 2099019",
+      "direccion": "Dr E Ciganda 1341",
+      "barrio": "REDUCTO",
+      "tipo": "Particular",
+      "nombre": "Sabbella Amendola Angel Claudio",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.05335, -34.87075]
+    },
+    "properties": {
+      "cartodb_id": 34,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "(2) 7089825",
+      "direccion": "Dr P De Pena 2520",
+      "barrio": "PQUE BATLLE VILLA DOLORES",
+      "tipo": "Particular",
+      "nombre": "Musso Esmeralda",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.17502, -34.9041]
+    },
+    "properties": {
+      "cartodb_id": 19,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "2401 3246",
+      "direccion": "Eduardo Acevedo 1382",
+      "barrio": "CORDON",
+      "tipo": "Particular",
+      "nombre": "Besio Alberti Raul Mario",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.19872, -34.903417]
+    },
+    "properties": {
+      "cartodb_id": 30,
+      "mail": "",
+      "sitio_web": "Centro Clinico visual",
+      "telefono": "27124190",
+      "direccion": "Fanzini 841",
+      "barrio": "POCITOS",
+      "tipo": "Particular",
+      "nombre": "Mester Nudelman Ricardo",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.14522, -34.90465]
+    },
+    "properties": {
+      "cartodb_id": 20,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "(2) 6222556",
+      "direccion": "F J Muñoz 330",
+      "barrio": "CORDON",
+      "tipo": "Particular",
+      "nombre": "De Mattos Enrique",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.18509, -34.90238]
+    },
+    "properties": {
+      "cartodb_id": 31,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "27079134",
+      "direccion": "GralJEBritoDelP 1483",
+      "barrio": "PQUE BATLLE VILLA DOLORES",
+      "tipo": "Particular",
+      "nombre": "HARISPE Costas Alicia Elena",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.18339, -34.9127]
+    },
+    "properties": {
+      "cartodb_id": 22,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "2413 4047",
+      "direccion": "Ing Carlos María Morales 912",
+      "barrio": "PALERMO",
+      "tipo": "Particular",
+      "nombre": "Venturino Dupin Veronica",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.15547, -34.91825]
+    },
+    "properties": {
+      "cartodb_id": 28,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "(2) 7110067",
+      "direccion": "J Ellauri 690",
+      "barrio": "POCITOS",
+      "tipo": "Particular",
+      "nombre": "De Santiago Solis Fernando",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.14534, -34.88428]
+    },
+    "properties": {
+      "cartodb_id": 36,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "(2) 7110560",
+      "direccion": "J Nuñez 2767",
+      "barrio": "PUNTA CARRETAS",
+      "tipo": "Particular",
+      "nombre": "Isola Montaldo Mabel",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.14682, -34.88996]
+    },
+    "properties": {
+      "cartodb_id": 33,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "24811200",
+      "direccion": "Luis A de Herrera 2044",
+      "barrio": "PQUE BATLLE VILLA DOLORES",
+      "tipo": "Particular",
+      "nombre": "Vaczy Rígoli Ricardo",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.18488, -34.90342]
+    },
+    "properties": {
+      "cartodb_id": 16,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "(2) 4007506",
+      "direccion": "Mercedes 1472",
+      "barrio": "CENTRO",
+      "tipo": "Particular",
+      "nombre": "Iribarne Forteza Sylvia",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.17171, -34.83279]
+    },
+    "properties": {
+      "cartodb_id": 14,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "(2) 6220097",
+      "direccion": "M Gonzales 1199",
+      "barrio": "BUCEO",
+      "tipo": "Particular",
+      "nombre": "Mermelstein Nicolas",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.1796, -34.90673]
+    },
+    "properties": {
+      "cartodb_id": 2,
+      "mail": "circulolaser@circulolaser.com.uy",
+      "sitio_web": "http://www.circulolaser.com.uy/",
+      "telefono": "(2) 4112000",
+      "direccion": "Minas 1260",
+      "barrio": "CENTRO",
+      "tipo": "Clínica",
+      "nombre": "Circulo Laser",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.06836, -34.88329]
+    },
+    "properties": {
+      "cartodb_id": 15,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "2600 8805",
+      "direccion": "Mones Roses 6408",
+      "barrio": "CARRASCO",
+      "tipo": "Particular",
+      "nombre": "Servetti Funes Juan Antonio",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.16048, -34.89896]
+    },
+    "properties": {
+      "cartodb_id": 11,
+      "mail": "consultoriooft@cetao.com.uy",
+      "sitio_web": "http://www.cetao.com.uy",
+      "telefono": "2708 0500",
+      "direccion": "PEDRO CAMPBELL 1546",
+      "barrio": "PQUE BATLLE VILLA DOLORES",
+      "tipo": "Clínica",
+      "nombre": "Cetao",
+      "especialidad": "Oftalmologia",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.15605, -34.90844]
+    },
+    "properties": {
+      "cartodb_id": 57,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "2707 2538",
+      "direccion": "Av Brasil 2686",
+      "barrio": "Pocitos",
+      "tipo": "Particular",
+      "nombre": "Cateura Maria Elizabeth",
+      "especialidad": "Dermatología",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.1963, -34.86914]
+    },
+    "properties": {
+      "cartodb_id": 60,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "22043369",
+      "direccion": "Av Joaquín Suárez 3292",
+      "barrio": "Prado",
+      "tipo": "Particular",
+      "nombre": "LOPEZ Celis Maria Elena",
+      "especialidad": "Dermatología",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.16456, -34.89653]
+    },
+    "properties": {
+      "cartodb_id": 58,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "24877761",
+      "direccion": "Br Artigas 1632",
+      "barrio": "Parque Batlle",
+      "tipo": "Particular",
+      "nombre": "Sanguinetti Jorge Manuel",
+      "especialidad": "Dermatología",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.16483, -34.89819]
+    },
+    "properties": {
+      "cartodb_id": 56,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "24023050",
+      "direccion": "Br Gral Artigas 1631",
+      "barrio": "Tres Cruces",
+      "tipo": "Particular",
+      "nombre": "LABAT Adriana",
+      "especialidad": "Dermatología",
+      "cartodb_georef_status": true
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {"type": "Point", "coordinates": [-56.1533013219,-34.9008616005]},
+    "properties": {
+      "cartodb_id": 59,
+      "mail": "",
+      "sitio_web": "",
+      "telefono": "2708 5201",
+      "direccion": "Cap Videla 2893",
+      "barrio": "Parque Batlle",
+      "tipo": "Particular",
+      "nombre": "Tellez Vogliolo Daniel",
+      "especialidad": "Dermatología",
+      "cartodb_georef_status": false
+    }
+  }]
+}
