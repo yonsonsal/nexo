@@ -141,7 +141,8 @@ angular.module('starter').controller('MapController', ['$scope',
             telefono = feature.properties.telefono;
             direccion = feature.properties.direccion;
             sitioWeb = feature.properties.sitio_web;
-            html = '<p>'+nombre+'</p>'+
+            html = '<p><b>'+nombre+'</b></p>'+
+                    '<p><i>'+direccion+'</i></p>'+
            '<a class="text report-link" href=' + sitioWeb+'><p>' + sitioWeb + '</p></a>'+
          '<a class="item item-icon-left" href="tel:"'+telefono+'>'+telefono+
             '<i class="icon ion-ios-telephone-outline"></i>'+
