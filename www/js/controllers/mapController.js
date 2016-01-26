@@ -18,6 +18,8 @@ angular.module('starter').controller('MapController', ['$scope',
     /**
      * Once state loaded, get put map on scope.
      */
+
+     $scope.medicosFeatureArray={};
     $scope.$on("$stateChangeSuccess", function() {
 
       $scope.locations = LocationsService.savedLocations;
@@ -26,7 +28,7 @@ angular.module('starter').controller('MapController', ['$scope',
       if (!InstructionsService.instructions.newLocations.seen) {
 
         var instructionsPopup = $ionicPopup.alert({
-          title: 'Add Locations',
+          title: 'Nexo Uy',
           template: InstructionsService.instructions.newLocations.text
         });
         instructionsPopup.then(function(res) {
@@ -74,21 +76,6 @@ angular.module('starter').controller('MapController', ['$scope',
       $scope.modal = modal;
     });
 
-    /**
-     * Detect user long-pressing on map to add new location
-     */
-    $scope.$on('leafletDirectiveMap.contextmenu', function(event, locationEvent) {
-      $scope.newLocation = new Location();
-      $scope.newLocation.lat = locationEvent.leafletEvent.latlng.lat;
-      $scope.newLocation.lng = locationEvent.leafletEvent.latlng.lng;
-      $scope.modal.show();
-    });
-
-    $scope.saveLocation = function() {
-      LocationsService.savedLocations.push($scope.newLocation);
-      $scope.modal.hide();
-      $scope.goTo(LocationsService.savedLocations.length - 1);
-    };
 
     /**
      * Center map on specific saved location
@@ -104,6 +91,7 @@ angular.module('starter').controller('MapController', ['$scope',
         zoom: 12
       };
 
+/*
       $scope.map.markers[locationKey] = {
         lat: location.lat,
         lng: location.lng,
@@ -111,7 +99,7 @@ angular.module('starter').controller('MapController', ['$scope',
         focus: true,
         draggable: false
       };
-
+*/
     };
 
     /**
@@ -144,28 +132,61 @@ angular.module('starter').controller('MapController', ['$scope',
 
     $scope.loadMedicos = function() {
 
-      var  onEachFeature = function(feature, layer) {
+      var  medicosLayer,onEachFeature = function(feature, layer) {
           // does this feature have a property named popupContent?
           var html, nombre, telefono,direccion,sitioWeb;
+          console.log("Each Feature!!!");
           if (feature.properties) {
             nombre = feature.properties.nombre;
             telefono = feature.properties.telefono;
             direccion = feature.properties.direccion;
             sitioWeb = feature.properties.sitio_web;
-            html = '<a class="text report-link" href=' + sitioWeb+'><p>' + sitioWeb + '</p></a>';
-            layer.bindPopup(html);
+            html = '<p>'+nombre+'</p>'+
+           '<a class="text report-link" href=' + sitioWeb+'><p>' + sitioWeb + '</p></a>'+
+         '<a class="item item-icon-left" href="tel:"'+telefono+'>'+telefono+
+            '<i class="icon ion-ios-telephone-outline"></i>'+
+        '</a>';
+        layer.bindPopup(html);
           }
+
+          if ($scope.medicosFeatureArray[feature.properties.id] === undefined) {
+            $scope.medicosFeatureArray[feature.properties.id] = layer;
+          }
+
         };
       MedicoServices.getMedicos().then(function(response) {
-        $scope.medicosGeoJSON = response;
+        $scope.medicos = response.features;
         leafletData.getMap().then(function(map) {
-          L.geoJson($scope.medicosGeoJSON, {
+          medicosLayer= L.geoJson(response, {
             onEachFeature: onEachFeature
-          }).addTo(map);
+          });
+
+
+
+/*
+          medicosLayer.on('layeradd', function(e) {
+
+            e.layer.eachLayer(function(_layer) {
+
+              if ($scope.medicosFeatureArray[_layer.feature.properties.id] === undefined) {
+                $scope.medicosFeatureArray[_layer.feature.properties.id] = _layer;
+              }
+            });
+
+          });*/
+         map.addLayer(medicosLayer);
         });
       });
     };
 
+    $scope.goToMedico = function(medico) {
+      var layer = $scope.medicosFeatureArray[medico.properties.id];
+      leafletData.getMap().then(function(map) {
+        map.setView(layer.getLatLng(), 14);
+        layer.openPopup();
+      });
+
+    };
 
 
   }

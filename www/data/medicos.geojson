@@ -7,7 +7,7 @@
       "coordinates": [-56.19806, -34.90607]
     },
     "properties": {
-      "cartodb_id": 18,
+      "id": 18,
       "mail": "",
       "sitio_web": "",
       "telefono": "(2) 9001054",
@@ -25,7 +25,7 @@
       "coordinates": [-56.18169, -34.90422]
     },
     "properties": {
-      "cartodb_id": 3,
+      "id": 3,
       "mail": "",
       "sitio_web": "",
       "telefono": "(2) 4034254",
@@ -43,7 +43,7 @@
       "coordinates": [-56.16705, -34.89685]
     },
     "properties": {
-      "cartodb_id": 40,
+      "id": 40,
       "mail": "dralbertogarciavillanueva@gmail.com",
       "sitio_web": "",
       "telefono": "4532 4630",
@@ -61,7 +61,7 @@
       "coordinates": [-56.18609, -34.90526]
     },
     "properties": {
-      "cartodb_id": 44,
+      "id": 44,
       "mail": "",
       "sitio_web": "",
       "telefono": "2902 7272",
@@ -79,7 +79,7 @@
       "coordinates": [-56.18609, -34.90526]
     },
     "properties": {
-      "cartodb_id": 43,
+      "id": 43,
       "mail": "estetica.uruguay@hotmail.com",
       "sitio_web": "",
       "telefono": "2902 7272",
@@ -97,7 +97,7 @@
       "coordinates": [-56.15545, -34.88361]
     },
     "properties": {
-      "cartodb_id": 6,
+      "id": 6,
       "mail": "",
       "sitio_web": "",
       "telefono": "(2) 4873749",
@@ -115,7 +115,7 @@
       "coordinates": [-56.15283, -34.91012]
     },
     "properties": {
-      "cartodb_id": 54,
+      "id": 54,
       "mail": "info@clinicalopezgarbarino.com",
       "sitio_web": "http://www.clinicalopezgarbarino.com/",
       "telefono": "2709 3787",
@@ -133,7 +133,7 @@
       "coordinates": [-56.15509, -34.90573]
     },
     "properties": {
-      "cartodb_id": 52,
+      "id": 52,
       "mail": "",
       "sitio_web": "http://amerpages.com/spa/uruguay/items/view/7435/centro-clinico-de-piel",
       "telefono": "2707 8357",
@@ -148,10 +148,10 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-54.77329, -34.03884]
+      "coordinates": [-55.89767, -34.804087]
     },
     "properties": {
-      "cartodb_id": 47,
+      "id": 47,
       "mail": "vriverov@adinet.com.uy",
       "sitio_web": "",
       "telefono": "2698 9077",
@@ -169,7 +169,7 @@
       "coordinates": [-56.12713, -34.88954]
     },
     "properties": {
-      "cartodb_id": 41,
+      "id": 41,
       "mail": "ilrusouza@montevideo.com.uy",
       "sitio_web": "",
       "telefono": "099 155 107",
@@ -187,7 +187,7 @@
       "coordinates": [-56.15286, -34.91349]
     },
     "properties": {
-      "cartodb_id": 39,
+      "id": 39,
       "mail": "",
       "sitio_web": "http://dracalandria.com/",
       "telefono": "2707 8453",
@@ -205,7 +205,7 @@
       "coordinates": [-56.16387, -34.9056]
     },
     "properties": {
-      "cartodb_id": 49,
+      "id": 49,
       "mail": "CONSULTAS@AVRIL.COM.UY",
       "sitio_web": "http://www.avril.com.uy/",
       "telefono": "24007761",
@@ -223,7 +223,7 @@
       "coordinates": [-56.16382, -34.90733]
     },
     "properties": {
-      "cartodb_id": 4,
+      "id": 4,
       "mail": "juan.echague@visionechague.com.uy",
       "sitio_web": "",
       "telefono": "2403 6567",
@@ -241,7 +241,7 @@
       "coordinates": [-56.16435, -34.9025]
     },
     "properties": {
-      "cartodb_id": 53,
+      "id": 53,
       "mail": "c.m.calabrese@adinet.com.uy",
       "sitio_web": "",
       "telefono": "2400 5737",
@@ -259,7 +259,7 @@
       "coordinates": [-56.14417, -34.9099]
     },
     "properties": {
-      "cartodb_id": 45,
+      "id": 45,
       "mail": "essence@dradacostaporto.com.uy",
       "sitio_web": "",
       "telefono": "2706 8884",
@@ -277,7 +277,7 @@
       "coordinates": [-56.1776542739, -34.9019526497]
     },
     "properties": {
-      "cartodb_id": 46,
+      "id": 46,
       "mail": "vainsen@hotmail.com",
       "sitio_web": "",
       "telefono": "2408 5422",
@@ -295,7 +295,7 @@
       "coordinates": [-56.1597977361,-34.9233110049]
     },
     "properties": {
-      "cartodb_id": 48,
+      "id": 48,
       "mail": "info@centro-dermatologico.com.uy",
       "sitio_web": "",
       "telefono": "099 683072",
@@ -313,7 +313,7 @@
       "coordinates": [-56.1499685919,-34.9068309063]
     },
     "properties": {
-      "cartodb_id": 51,
+      "id": 51,
       "mail": "cdlaser@adinet.com.uy",
       "sitio_web": "",
       "telefono": "2709 9577",
@@ -331,7 +331,7 @@
       "coordinates": [-56.158773, -34.915638]
     },
     "properties": {
-      "cartodb_id": 12,
+      "id": 12,
       "mail": "centroclinicovisual@adinet.com.uy",
       "sitio_web": "",
       "telefono": "2712 4190",
@@ -349,7 +349,7 @@
       "coordinates": [-56.181404, -34.913136]
     },
     "properties": {
-      "cartodb_id": 21,
+      "id": 21,
       "mail": "drsolis@adinet.com.uy",
       "sitio_web": "",
       "telefono": "2419 6338",
@@ -367,7 +367,7 @@
       "coordinates": [-56.15764, -34.910155]
     },
     "properties": {
-      "cartodb_id": 42,
+      "id": 42,
       "mail": "consultorioclinicolibertad@gmail.com",
       "sitio_web": "http://www.consultorioclinicolibertad.com.uy/contacto/",
       "telefono": "2707 1513",
@@ -385,7 +385,7 @@
       "coordinates": [-56.17186, -34.90044]
     },
     "properties": {
-      "cartodb_id": 17,
+      "id": 17,
       "mail": "",
       "sitio_web": "",
       "telefono": "(2) 4082496",
@@ -403,7 +403,7 @@
       "coordinates": [-56.13568, -34.87174]
     },
     "properties": {
-      "cartodb_id": 13,
+      "id": 13,
       "mail": "",
       "sitio_web": "",
       "telefono": "(2) 5083093",
@@ -421,7 +421,7 @@
       "coordinates": [-56.14682, -34.88996]
     },
     "properties": {
-      "cartodb_id": 1,
+      "id": 1,
       "mail": "wmeerhoff@netgate.com.uy",
       "sitio_web": "http://www.clinicameerhoff.com.uy/",
       "telefono": "2481 1200",
@@ -439,7 +439,7 @@
       "coordinates": [-56.15682, -34.90085]
     },
     "properties": {
-      "cartodb_id": 32,
+      "id": 32,
       "mail": "",
       "sitio_web": "",
       "telefono": "27093403",
@@ -457,7 +457,7 @@
       "coordinates": [-56.16293, -34.87417]
     },
     "properties": {
-      "cartodb_id": 29,
+      "id": 29,
       "mail": "",
       "sitio_web": "",
       "telefono": "(2) 7093403",
@@ -475,7 +475,7 @@
       "coordinates": [-56.17254, -34.9119]
     },
     "properties": {
-      "cartodb_id": 10,
+      "id": 10,
       "mail": "visionuno@netgate.com.uy",
       "sitio_web": "http://www.visionuno.com.uy",
       "telefono": "2410 8102",
@@ -493,7 +493,7 @@
       "coordinates": [-56.1603, -34.89257]
     },
     "properties": {
-      "cartodb_id": 38,
+      "id": 38,
       "mail": "",
       "sitio_web": "",
       "telefono": "(2) 4802691",
@@ -511,7 +511,7 @@
       "coordinates": [-56.2767, -34.85127]
     },
     "properties": {
-      "cartodb_id": 25,
+      "id": 25,
       "mail": "",
       "sitio_web": "",
       "telefono": "(2) 6227360",
@@ -529,7 +529,7 @@
       "coordinates": [-56.1616, -34.91482]
     },
     "properties": {
-      "cartodb_id": 35,
+      "id": 35,
       "mail": "consultoriosarmiento@hotmail.com",
       "sitio_web": "",
       "telefono": "2712 0513",
@@ -547,7 +547,7 @@
       "coordinates": [-56.15729, -34.91423]
     },
     "properties": {
-      "cartodb_id": 26,
+      "id": 26,
       "mail": "",
       "sitio_web": "",
       "telefono": "",
@@ -565,7 +565,7 @@
       "coordinates": [-56.1637, -34.90838]
     },
     "properties": {
-      "cartodb_id": 23,
+      "id": 23,
       "mail": "juan.echague@visionechague.com.uy",
       "sitio_web": "",
       "telefono": "(2) 4036567",
@@ -583,7 +583,7 @@
       "coordinates": [-56.16463, -34.89933]
     },
     "properties": {
-      "cartodb_id": 7,
+      "id": 7,
       "mail": "consultas@clinicadeojosmontevideo.com.uy ",
       "sitio_web": "http://www.clinicadeojosmontevideo.com.uy/",
       "telefono": "2408 62 62",
@@ -601,7 +601,7 @@
       "coordinates": [-56.14172, -34.90863]
     },
     "properties": {
-      "cartodb_id": 27,
+      "id": 27,
       "mail": "",
       "sitio_web": "",
       "telefono": "2709 7920",
@@ -619,7 +619,7 @@
       "coordinates": [-56.19001, -34.87597]
     },
     "properties": {
-      "cartodb_id": 37,
+      "id": 37,
       "mail": "",
       "sitio_web": "",
       "telefono": "(2) 2099019",
@@ -637,7 +637,7 @@
       "coordinates": [-56.05335, -34.87075]
     },
     "properties": {
-      "cartodb_id": 34,
+      "id": 34,
       "mail": "",
       "sitio_web": "",
       "telefono": "(2) 7089825",
@@ -655,7 +655,7 @@
       "coordinates": [-56.17502, -34.9041]
     },
     "properties": {
-      "cartodb_id": 19,
+      "id": 19,
       "mail": "",
       "sitio_web": "",
       "telefono": "2401 3246",
@@ -673,7 +673,7 @@
       "coordinates": [-56.19872, -34.903417]
     },
     "properties": {
-      "cartodb_id": 30,
+      "id": 30,
       "mail": "",
       "sitio_web": "Centro Clinico visual",
       "telefono": "27124190",
@@ -691,7 +691,7 @@
       "coordinates": [-56.14522, -34.90465]
     },
     "properties": {
-      "cartodb_id": 20,
+      "id": 20,
       "mail": "",
       "sitio_web": "",
       "telefono": "(2) 6222556",
@@ -709,7 +709,7 @@
       "coordinates": [-56.18509, -34.90238]
     },
     "properties": {
-      "cartodb_id": 31,
+      "id": 31,
       "mail": "",
       "sitio_web": "",
       "telefono": "27079134",
@@ -727,7 +727,7 @@
       "coordinates": [-56.18339, -34.9127]
     },
     "properties": {
-      "cartodb_id": 22,
+      "id": 22,
       "mail": "",
       "sitio_web": "",
       "telefono": "2413 4047",
@@ -745,7 +745,7 @@
       "coordinates": [-56.15547, -34.91825]
     },
     "properties": {
-      "cartodb_id": 28,
+      "id": 28,
       "mail": "",
       "sitio_web": "",
       "telefono": "(2) 7110067",
@@ -763,7 +763,7 @@
       "coordinates": [-56.14534, -34.88428]
     },
     "properties": {
-      "cartodb_id": 36,
+      "id": 36,
       "mail": "",
       "sitio_web": "",
       "telefono": "(2) 7110560",
@@ -781,7 +781,7 @@
       "coordinates": [-56.14682, -34.88996]
     },
     "properties": {
-      "cartodb_id": 33,
+      "id": 33,
       "mail": "",
       "sitio_web": "",
       "telefono": "24811200",
@@ -799,7 +799,7 @@
       "coordinates": [-56.18488, -34.90342]
     },
     "properties": {
-      "cartodb_id": 16,
+      "id": 16,
       "mail": "",
       "sitio_web": "",
       "telefono": "(2) 4007506",
@@ -817,7 +817,7 @@
       "coordinates": [-56.17171, -34.83279]
     },
     "properties": {
-      "cartodb_id": 14,
+      "id": 14,
       "mail": "",
       "sitio_web": "",
       "telefono": "(2) 6220097",
@@ -835,7 +835,7 @@
       "coordinates": [-56.1796, -34.90673]
     },
     "properties": {
-      "cartodb_id": 2,
+      "id": 2,
       "mail": "circulolaser@circulolaser.com.uy",
       "sitio_web": "http://www.circulolaser.com.uy/",
       "telefono": "(2) 4112000",
@@ -853,7 +853,7 @@
       "coordinates": [-56.06836, -34.88329]
     },
     "properties": {
-      "cartodb_id": 15,
+      "id": 15,
       "mail": "",
       "sitio_web": "",
       "telefono": "2600 8805",
@@ -871,7 +871,7 @@
       "coordinates": [-56.16048, -34.89896]
     },
     "properties": {
-      "cartodb_id": 11,
+      "id": 11,
       "mail": "consultoriooft@cetao.com.uy",
       "sitio_web": "http://www.cetao.com.uy",
       "telefono": "2708 0500",
@@ -889,7 +889,7 @@
       "coordinates": [-56.15605, -34.90844]
     },
     "properties": {
-      "cartodb_id": 57,
+      "id": 57,
       "mail": "",
       "sitio_web": "",
       "telefono": "2707 2538",
@@ -907,7 +907,7 @@
       "coordinates": [-56.1963, -34.86914]
     },
     "properties": {
-      "cartodb_id": 60,
+      "id": 60,
       "mail": "",
       "sitio_web": "",
       "telefono": "22043369",
@@ -925,7 +925,7 @@
       "coordinates": [-56.16456, -34.89653]
     },
     "properties": {
-      "cartodb_id": 58,
+      "id": 58,
       "mail": "",
       "sitio_web": "",
       "telefono": "24877761",
@@ -943,7 +943,7 @@
       "coordinates": [-56.16483, -34.89819]
     },
     "properties": {
-      "cartodb_id": 56,
+      "id": 56,
       "mail": "",
       "sitio_web": "",
       "telefono": "24023050",
@@ -958,7 +958,7 @@
     "type": "Feature",
     "geometry": {"type": "Point", "coordinates": [-56.1533013219,-34.9008616005]},
     "properties": {
-      "cartodb_id": 59,
+      "id": 59,
       "mail": "",
       "sitio_web": "",
       "telefono": "2708 5201",

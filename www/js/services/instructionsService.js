@@ -4,7 +4,7 @@ angular.module('starter').factory('InstructionsService', [ function() {
 
   instructionsObj.instructions = {
     newLocations : {
-      text : 'To add a new location, tap and hold on the map',
+      text : 'Bienvenido a Nexo, la plataforma que te permite tomar el control de tu salud',
       seen : false
     }
   };
